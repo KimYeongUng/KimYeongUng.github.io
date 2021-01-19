@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+김영웅의 개발 블로그
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Java,Spring Framework
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kimyeongung92@gmail.com](kimyeongung92@gmail.com)
